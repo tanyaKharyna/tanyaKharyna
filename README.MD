@@ -1,8 +1,6 @@
-👋 Hi there/h1><br>
-🏷 My name is Tanya and I am a Software Tester. My primary focus is testing web applications, in Agile environmentt <br>
-🧠 currectly learning TypeScript and React<br>
-🖥 on a mission to create test automation portfolio<br>
-🙋 In my spare time, I try to build social life in Stockholm, where I recently moved by trying 
-🧩 interests in psychology. art. music. literature.aviation.<br>
-📌 Develops at Tabby Cat.</p><br>
-
+<h1>👋 Hi there </h1><br>
+🏷 My name is Tanya and I am a Software Tester. My primary focus is the testing of web applications in Agile environments. I enjoy automating test cases using JavaScript, but also love to do exploratory testing and "breaking" software"🐛 <br>
+✏️ Use JavaScript/ TestScript for test automation<br>
+🧠 Currently trying to become better at TestOps, learning React<br>
+🖥  On a mission to create a test automation portfolio<br>
+🙋 In my spare time, I try to build a social life in Stockholm, where I recently I moved in September 2020. I like meeting new people, so if you’re reading this then I’d love to meet if we’re in the same city!<br>
